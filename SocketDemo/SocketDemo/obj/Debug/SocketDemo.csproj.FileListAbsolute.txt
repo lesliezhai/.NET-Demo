@@ -1,0 +1,5 @@
+D:\Work\DEMO\SocketDemo\SocketDemo\bin\Debug\SocketDemo.exe
+D:\Work\DEMO\SocketDemo\SocketDemo\bin\Debug\SocketDemo.pdb
+D:\Work\DEMO\SocketDemo\SocketDemo\obj\Debug\SocketDemo.csprojResolveAssemblyReference.cache
+D:\Work\DEMO\SocketDemo\SocketDemo\obj\Debug\SocketDemo.exe
+D:\Work\DEMO\SocketDemo\SocketDemo\obj\Debug\SocketDemo.pdb
