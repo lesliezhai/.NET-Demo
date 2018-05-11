@@ -2,3 +2,7 @@ D:\Work\DEMO\SocketDemo\SocketClient\bin\Debug\SocketClient.exe
 D:\Work\DEMO\SocketDemo\SocketClient\bin\Debug\SocketClient.pdb
 D:\Work\DEMO\SocketDemo\SocketClient\obj\Debug\SocketClient.exe
 D:\Work\DEMO\SocketDemo\SocketClient\obj\Debug\SocketClient.pdb
+D:\c\github\WinForm-Demo\SocketDemo\SocketClient\bin\Debug\SocketClient.exe
+D:\c\github\WinForm-Demo\SocketDemo\SocketClient\bin\Debug\SocketClient.pdb
+D:\c\github\WinForm-Demo\SocketDemo\SocketClient\obj\Debug\SocketClient.exe
+D:\c\github\WinForm-Demo\SocketDemo\SocketClient\obj\Debug\SocketClient.pdb
